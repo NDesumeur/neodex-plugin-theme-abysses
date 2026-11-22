@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.themeabysses",
+  "repo": "NDesumeur/neodex-plugin-theme-abysses",
+  "version": "1.0.0",
+  "sha256": "e6b555e622e1650dc4a3bebc4352a1d3efe17ec7e6c23a6d86345a3ebe721845",
+  "approvedAt": "2026-11-22T19:05:25.587Z",
+  "neobase": ">=4.1.0",
+  "signature": "2W2EuoU+rbY4JTSYV4CpIpqhFjP5rnQzkt4CG1yzV5Avj0F6pbr2dInOESwG3184AHISimE/lvIqhRFZWMelBg=="
+}
