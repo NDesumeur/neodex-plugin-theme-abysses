@@ -1,0 +1,36 @@
+{
+  "id": "neodex.themeabysses",
+  "name": "Thème Abysses",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "icon": "icon.png",
+  "neobase": ">=4.1.0",
+  "neodex": ">=3.3.9",
+  "type": "theme",
+  "compatibility": [
+    "windows",
+    "linux",
+    "android"
+  ],
+  "mobile": true,
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [],
+  "description": "Fond marin : bleus profonds, lueurs bioluminescentes, cadres fins. Un thème de couleurs et de cadres pour NeoDex.",
+  "category": "Thèmes",
+  "themes": [
+    {
+      "id": "abysses",
+      "name": "Abysses",
+      "style": "abysses",
+      "hue": 210,
+      "sat": 62,
+      "accent": "#21d4fd",
+      "light": "#9af0ff",
+      "third": "#b388ff",
+      "lift": 1.6,
+      "about": "Fond marin : bleus profonds, lueurs bioluminescentes, cadres fins."
+    }
+  ]
+}
